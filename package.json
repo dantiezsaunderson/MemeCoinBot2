@@ -1,0 +1,16 @@
+{
+  "name": "memecoinbot2",
+  "version": "1.0.0",
+  "description": "Create a GPT-powered Telegram chatbot that provides real-time meme coin prices, trending coins, and market sentiment. Connect it to CoinGecko and Twitter APIs. Enable users to set alerts for price spikes and receive sentiment analysis updates.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
